@@ -1,7 +1,7 @@
 ---
 date: 2019-07-31T22:43:31.000+00:00
 title: Lebara Play
-author: Robert Thoreau
+author: Amine Mekhid
 hero_image: "/content/images/heather-shevlin-3B_NrzTjajc-unsplash.jpg"
 
 ---
