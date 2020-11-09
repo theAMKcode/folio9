@@ -1,6 +1,6 @@
 ---
-date: 2019-07-31T22:43:31Z
-title: An Essay on Walking
+date: 2019-07-31T22:43:31.000+00:00
+title: Lebara Play
 author: Robert Thoreau
 hero_image: "/content/images/heather-shevlin-3B_NrzTjajc-unsplash.jpg"
 
