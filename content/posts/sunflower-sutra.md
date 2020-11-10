@@ -1,5 +1,5 @@
 ---
-date: 2015-02-03T07:30:09Z
+date: 
 title: REISS
 author: Amine Mekhid
 hero_image: "/content/images/reiss.jpg"
