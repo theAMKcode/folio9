@@ -5,7 +5,7 @@ author: Amine Mekhid
 hero_image: "/content/images/reiss.jpg"
 
 ---
-[Autumn Winter Campaign Video](https://www.youtube.com/watch?v=0Ggn3tQliFE)
+[Campaign Video](https://www.youtube.com/watch?v=0Ggn3tQliFE)
 
 I walked on the banks of the tincan banana dock and sat down under the huge shade of a Southern Pacific locomotive to look for the sunset over the box house hills and cry.
 
@@ -43,4 +43,4 @@ entangled in your mummied roots–and you standing before me in the sunset, all 
 
 A perfect beauty of a sunflower! a perfect excellent lovely sunflower existence! a sweet natural eye to the new hip moon, woke up alive and excited grasping in the sunset shadow sunrise golden monthly breeze!
 
-[Autumn Winter Campaign Video](https://www.youtube.com/watch?v=0Ggn3tQliFE)
+[Campaign Video](https://www.youtube.com/watch?v=0Ggn3tQliFE)
