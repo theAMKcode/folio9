@@ -7,7 +7,9 @@ hero_image: "/content/images/reiss.jpg"
 ---
 [Campaign Video](https://www.youtube.com/watch?v=0Ggn3tQliFE)
 
-I walked on the banks of the tincan banana dock and sat down under the huge shade of a Southern Pacific locomotive to look for the sunset over the box house hills and cry.
+**The Challenge:** How can we show REISS off to the world, in a classy yet captivating way?
+
+**The Solution:** We kicked off the brief with a deep dive into content ideation, bouncing visual ideas in group brainstorm sprints. Building on what we knew, throw in some newly acquired data of our female customers; we decide to go with something timeless, vibrant & refined.
 
 Jack Kerouac sat beside me on a busted rusty iron pole, companion, we thought the same thoughts of the soul, bleak and blue and sad-eyed, surrounded by the gnarled steel roots of trees of machinery.
 
