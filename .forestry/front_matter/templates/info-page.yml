@@ -37,6 +37,7 @@ fields:
     config:
       required: false
     label: GitHub Handle
+    hidden: true
 - name: background_color
   type: color
   label: background_color
