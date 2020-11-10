@@ -1,10 +1,10 @@
 {
   "description": "<p>Some of my work and thoughts.</p>",
-  "cta": "<p>Call to action. </p>",
+  "cta": "<p></p>",
   "contact": {
     "email": "amine@mekhid.com",
     "twitter_handle": "aminemekhid",
     "github_handle": "theAMKcode"
   },
-  "background_color": "#B1BCBC"
+  "background_color": "#7ACDCD"
 }
