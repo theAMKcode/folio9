@@ -27,7 +27,7 @@ export default function Info() {
           </li>
           <li>
             <p>
-              <a href={`https://github.com/${infoData.contact.github_handle}`}>Github: {infoData.contact.github_handle}</a>
+              //<a href={`https://github.com/${infoData.contact.github_handle}`}>Github: {infoData.contact.github_handle}</a>
             </p>
           </li>
         </ul>
