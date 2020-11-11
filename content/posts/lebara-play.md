@@ -1,5 +1,5 @@
 ---
-date: 2020-11-09T00:00:00Z
+date: 
 title: Lebara Play
 author: Amine Mekhid
 hero_image: "/content/images/lebaraplay2.jpg"
