@@ -2,7 +2,7 @@
 date: 
 title: Bang & Olufsen
 author: ''
-hero_image: "/content/images/vichy2.jpg"
+hero_image: "/content/images/b_o2.jpg"
 
 ---
 [Campaign Video](https://www.youtube.com/watch?v=0Ggn3tQliFE) ?
