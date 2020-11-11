@@ -18,7 +18,7 @@ fields:
       path: authors
   label: author
   description: Enter author of post
-  hidden: false
+  hidden: true
 - name: date
   type: datetime
   label: date
@@ -29,7 +29,7 @@ fields:
     time_format: 
     display_utc: false
   default: now
-  hidden: false
+  hidden: true
 - name: hero_image
   type: file
   config:
