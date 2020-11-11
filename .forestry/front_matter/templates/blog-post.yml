@@ -38,6 +38,7 @@ fields:
   description: Enter hero image for blog post here
   default: "/content/images/sarah-dorweiler-9Z1KRIfpBTM-unsplash.jpg"
 pages:
+- content/posts/andigital.md
 - content/posts/bang-olufsen.md
 - content/posts/garnier.md
 - content/posts/lebara-play.md
