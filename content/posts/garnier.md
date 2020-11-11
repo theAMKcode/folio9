@@ -1,5 +1,5 @@
 ---
-date: 
+date: 2020-11-04T00:00:00Z
 title: Garnier
 author: Amine Mekhid
 hero_image: "/content/images/garnier2.jpg"
