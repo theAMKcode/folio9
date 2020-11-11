@@ -5,14 +5,10 @@ author: ''
 hero_image: "/content/images/b_o2.jpg"
 
 ---
-[Campaign Video](https://www.youtube.com/watch?v=0Ggn3tQliFE)
+[Campaign Video](https://www.youtube.com/watch?v=0Ggn3tQliFE) ?
 
-**The Challenge:** How can we show REISS off to the world, in a classy yet captivating way?
+**The Challenge:** ?
 
-**The Solution:** We kicked off the brief with a deep dive into content ideation, bouncing visual ideas in group brainstorm sprints. Building on what we knew, throw in some newly acquired data of our customers; we decide to go with something timeless, vibrant & refined.
+**The Solution:** ?
 
-![](/content/images/reiss_men.jpg)
-
-![](/content/images/reiss_women.jpg)
-
-[Campaign Video](https://www.youtube.com/watch?v=0Ggn3tQliFE)
+![](/content/images/bo2.jpg)
