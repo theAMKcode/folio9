@@ -2,7 +2,7 @@
 date: 
 title: Wiser Graduates
 author: ''
-hero_image: "/content/images/lebaraplay2.jpg"
+hero_image: "/content/images/wiser2.png"
 
 ---
 [Campaign Video](https://www.youtube.com/watch?v=0Ggn3tQliFE) ?
@@ -11,4 +11,4 @@ hero_image: "/content/images/lebaraplay2.jpg"
 
 **The Solution:** ?
 
-![](/content/images/lebaraplay.png)
+![](/content/images/wiser_wireframe.png)
