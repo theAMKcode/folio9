@@ -1,5 +1,5 @@
 ---
-date: 2020-10-30T00:00:00Z
+date: 
 title: Wiser Graduates
 author: Amine Mekhid
 hero_image: "/content/images/wiser2.png"
