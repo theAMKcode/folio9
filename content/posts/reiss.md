@@ -1,7 +1,7 @@
 ---
 date: 
 title: REISS
-author: ''
+author: Amine Mekhid
 hero_image: "/content/images/reiss.jpg"
 
 ---
