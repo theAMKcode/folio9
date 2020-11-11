@@ -1,7 +1,7 @@
 ---
 date: 
 title: Bang & Olufsen
-author: ''
+author: Amine Mekhid
 hero_image: "/content/images/b_o2.jpg"
 
 ---
