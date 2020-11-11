@@ -1,7 +1,7 @@
 ---
 date: 
 title: Garnier
-author: ''
+author: Amine Mekhid
 hero_image: "/content/images/garnier2.jpg"
 
 ---
