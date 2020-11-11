@@ -1,7 +1,7 @@
 ---
 date: 
 title: Wiser Graduates
-author: ''
+author: Amine Mekhid
 hero_image: "/content/images/wiser2.png"
 
 ---
