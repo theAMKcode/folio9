@@ -1,7 +1,7 @@
 ---
 date: 
 title: Lebara Play
-author: ''
+author: Amine Mekhid
 hero_image: "/content/images/lebaraplay2.jpg"
 
 ---
