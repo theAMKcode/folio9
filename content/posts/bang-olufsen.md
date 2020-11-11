@@ -10,5 +10,3 @@ hero_image: "/content/images/b_o2.jpg"
 **The Challenge:** ?
 
 **The Solution:** ?
-
-![](/content/images/vichy.jpg)
