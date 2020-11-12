@@ -5,10 +5,6 @@ author: Amine Mekhid
 hero_image: "/content/images/garnier2.jpg"
 
 ---
-[Campaign Video](https://www.youtube.com/watch?v=0Ggn3tQliFE) ?
-
-**The Challenge:** ?
-
-**The Solution:** ?
+**The Scoop:** Garnier needs no introduction. They're mostly known for their hair care product line and I was asked to fulfill a range of design needs with careful placement and dimension discussions. Ranging from web, to mobile, to social, you name it.
 
 ![](/content/images/garnier.jpg)
