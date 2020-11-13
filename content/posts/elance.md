@@ -1,6 +1,6 @@
 ---
-date: 2020-11-13T11:36:41Z
-hero_image: "/content/images/sarah-dorweiler-9Z1KRIfpBTM-unsplash.jpg"
+date: 
+hero_image: ''
 title: Elance-oDesk
 author: Amine Mekhid
 
