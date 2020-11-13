@@ -1,10 +1,10 @@
 ---
-date: 2020-11-13T11:33:27Z
-hero_image: "/content/images/sarah-dorweiler-9Z1KRIfpBTM-unsplash.jpg"
+date: 
+hero_image: ''
 title: Champollion Digital
 author: Amine Mekhid
 
 ---
-Now part of Instinctif Partners
+Now part of [Instinctif Partners](https://instinctif.com/uk/)
 
 ...
