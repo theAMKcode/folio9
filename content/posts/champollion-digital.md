@@ -1,6 +1,6 @@
 ---
 date: 
-hero_image: "/content/images/igor-son-FV_PxCqgtwc-unsplash.jpg"
+hero_image: "/content/images/winner-iof_printposter.png"
 title: Champollion Digital
 author: Amine Mekhid
 
