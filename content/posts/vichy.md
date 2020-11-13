@@ -1,5 +1,5 @@
 ---
-date: 2020-11-01T00:00:00Z
+date: 
 title: Vichy
 author: Amine Mekhid
 hero_image: "/content/images/vichy2.jpg"
