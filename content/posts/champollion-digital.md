@@ -1,6 +1,6 @@
 ---
 date: 2020-11-04T00:00:00Z
-hero_image: ''
+hero_image: "/content/images/igor-son-FV_PxCqgtwc-unsplash.jpg"
 title: Champollion Digital
 author: Amine Mekhid
 
