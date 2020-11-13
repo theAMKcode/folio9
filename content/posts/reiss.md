@@ -1,5 +1,5 @@
 ---
-date: 2020-11-01T00:00:00Z
+date: 
 title: REISS
 author: Amine Mekhid
 hero_image: "/content/images/reiss.jpg"
