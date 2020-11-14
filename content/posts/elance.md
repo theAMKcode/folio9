@@ -1,10 +1,14 @@
 ---
 date: 
-hero_image: "/content/images/img_9102.JPG"
+hero_image: "/content/images/img_9153.JPG"
 title: Elance-oDesk
 author: Amine Mekhid
 
 ---
-Now part of [Upwork](https://www.upwork.com/) 
+The Skinny: It's 2015. And Elance just got rebranded to what is now known as [UpWork](https://www.upwork.com/). But just before all that happened, some friends & I fancied ourselves cool enough to redesign and build a better mobile app for the Android app. Why not right. We called it Freelancer
 
-...
+We teamed up creating user journeys, user flows, user mapping, storyboarding, colour picking, typography. Using Photoshop, Illustrator.
+
+![](/content/images/img_9105.JPG)
+
+![](/content/images/img_9106.JPG)
