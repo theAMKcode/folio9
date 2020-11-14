@@ -13,6 +13,26 @@ hero_image: "/content/images/wiser3.png"
 
 ![](/content/images/wiser2.png)
 
-**UX Designs (_Balsamiq_)**
+**UX Wireframing Group (_Balsamiq Software_)**
 
 ![](/content/images/wiser_wireframe.png)
+
+**Individual UX Wireframe Pages**
+
+![](/content/images/wiserpage1.png)
+
+![](/content/images/wiserpage2.png)
+
+![](/content/images/wiserpage3.png)
+
+![](/content/images/wiserpage4.png)
+
+![](/content/images/wiserpage5.png)
+
+![](/content/images/wiserpage6.png)
+
+![](/content/images/wiserpage7.png)
+
+![](/content/images/wiserpage8.png)
+
+![](/content/images/wiserpage9.png)
