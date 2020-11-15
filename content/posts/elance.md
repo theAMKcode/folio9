@@ -1,7 +1,7 @@
 ---
 date: 
-hero_image: "/content/images/img_9153.JPG"
-title: Elance-oDesk
+hero_image: "/content/images/elance_logo.jpg"
+title: Elance
 author: Amine Mekhid
 
 ---
@@ -19,4 +19,4 @@ We teamed up creating user journeys, user flows, user mapping, storyboarding, co
 
 ![](/content/images/img_9100.png)
 
-![](/content/images/img_9098.png)
+![](/content/images/img_9098.png)![](/content/images/img_9153.JPG)
