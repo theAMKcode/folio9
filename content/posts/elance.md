@@ -1,6 +1,6 @@
 ---
 date: 
-hero_image: "/content/images/elance_logo.jpg"
+hero_image: "/content/images/elance_logo2.jpeg"
 title: Elance
 author: Amine Mekhid
 
