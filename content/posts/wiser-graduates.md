@@ -13,7 +13,7 @@ hero_image: "/content/images/wisergraduates_logo.png"
 
 ![](/content/images/wiser2.png)
 
-**UX Wireframing Group (_Balsamiq Software_)**
+**UX Wireframing (_Balsamiq Software_)**
 
 ![](/content/images/wiser_wireframe.png)
 
