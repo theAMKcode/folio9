@@ -11,6 +11,10 @@ author: Amine Mekhid
 
 Much research was conducted. Full analysis was made into...
 
+**Conceptual Storyboarding**
+
+![](/content/images/img_3565.JPG)
+
 **Wireframing**
 
 ![](/content/images/img_3570.JPG)
