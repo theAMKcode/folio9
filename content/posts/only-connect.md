@@ -11,7 +11,7 @@ author: Amine Mekhid
 
 Full product research & competitor analysis was conducted to map out the key focal points. 
 
-**Conceptual Storyboarding**
+**Conceptual Storyboard Sketches**
 
 ![](/content/images/img_3565.JPG)
 
