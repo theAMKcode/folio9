@@ -9,7 +9,7 @@ author: Amine Mekhid
 
 **The Solution:** They needed a website platform that portrayed the serious work they were doing for the communities of London, UK.
 
-Research & Analysis 
+Full product research & competitor analysis was conducted to map out the key focal points. 
 
 **Conceptual Storyboarding**
 
