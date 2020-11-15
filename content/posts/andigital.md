@@ -1,6 +1,6 @@
 ---
 date: 
-hero_image: "/content/images/andigital_logo.png"
+hero_image: "/content/images/andigital_logo2.png"
 title: ANDigital
 author: Amine Mekhid
 
