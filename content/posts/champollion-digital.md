@@ -5,8 +5,4 @@ title: Champollion Digital
 author: Amine Mekhid
 
 ---
-Now part of [Instinctif Partners](https://instinctif.com/uk/)
-
-...
-
-![](/content/images/winner-iof_printposter.png)
+Project details coming soon.
