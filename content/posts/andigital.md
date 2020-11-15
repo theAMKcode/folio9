@@ -17,6 +17,6 @@ author: Amine Mekhid
 
 ![](/content/images/andigital_cards2.png)
 
-Their latest [Website](https://and.digital/)
+**Their latest** [**Website**](https://and.digital/)
 
 ![](/content/images/andigital_website.png)
