@@ -1,6 +1,6 @@
 ---
 date: 
-hero_image: "/content/images/img_3570.JPG"
+hero_image: "/content/images/onlyconnect_logo.jpg"
 title: Only Connect
 author: Amine Mekhid
 
@@ -9,4 +9,8 @@ author: Amine Mekhid
 
 **The Solution:** They needed a website platform that portrayed the serious work they were doing for the communities of London, UK.
 
-Much research was conducted. Full analysis was made into 
+Much research was conducted. Full analysis was made into
+
+**Wireframing**
+
+![](/content/images/img_3570.JPG)
