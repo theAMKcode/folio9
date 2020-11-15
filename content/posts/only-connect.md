@@ -15,6 +15,16 @@ Full product research & competitor analysis was conducted to map out the key foc
 
 ![](/content/images/img_3565.JPG)
 
-**Wireframing**
+**Wireframing Various Pages**
+
+![](/content/images/img_3566.JPG)
+
+![](/content/images/img_3567.JPG)
+
+![](/content/images/img_3568.JPG)
+
+![](/content/images/img_3569.JPG)
 
 ![](/content/images/img_3570.JPG)
+
+![](/content/images/img_3571.JPG)
