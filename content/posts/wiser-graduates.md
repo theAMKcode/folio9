@@ -2,7 +2,7 @@
 date: 
 title: Wiser Graduates
 author: Amine Mekhid
-hero_image: "/content/images/wiser3.png"
+hero_image: "/content/images/wisergraduates_logo.png"
 
 ---
 **The Challenge**: To break through the cluttered category of recruitment agencies to tell people why Wiser is the refreshing answer they needed.
@@ -36,3 +36,7 @@ hero_image: "/content/images/wiser3.png"
 ![](/content/images/wiserpage8.png)
 
 ![](/content/images/wiserpage9.png)
+
+**The finished and recent** [**Website**](https://wearewiser.com/graduates)
+
+![](/content/images/wiser3.png)
