@@ -9,13 +9,13 @@ author: Amine Mekhid
 
 We teamed up creating user journeys, user flows, user mapping, storyboarding, colour picking, typography. Using Photoshop, Illustrator.
 
-**Wireframing**
+#### **Wireframing**
 
 ![](/content/images/img_9105.JPG)
 
 ![](/content/images/img_9106.JPG)
 
-**User Interface Design**
+#### **User Interface Design**
 
 ![](/content/images/img_9100.png)
 
