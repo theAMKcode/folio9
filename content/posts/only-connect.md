@@ -9,7 +9,7 @@ author: Amine Mekhid
 
 **The Solution:** They needed a website platform that portrayed the serious work they were doing for the communities of London, UK.
 
-Full product research & competitor analysis was conducted to map out the key focal points. 
+Full product research & competitor analysis was conducted to map out the key focal points.
 
 **Conceptual Storyboard Sketches**
 
@@ -18,8 +18,6 @@ Full product research & competitor analysis was conducted to map out the key foc
 **Wireframing Various Pages**
 
 ![](/content/images/img_3566.JPG)
-
-![](/content/images/img_3567.JPG)
 
 ![](/content/images/img_3568.JPG)
 
