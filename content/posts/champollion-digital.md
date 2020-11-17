@@ -30,3 +30,5 @@ Created User Interfaces, mapped out User Experiences and designed compelling log
 ![](/content/images/3-iof_printposter1.png)
 
 ![](/content/images/4-iof_printposter1.png)
+
+![](/content/images/winner-iof_printposter.png)
