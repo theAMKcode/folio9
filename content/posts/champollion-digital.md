@@ -12,3 +12,7 @@ author: Amine Mekhid
 I lent a hand on multiple client projects. Ranging from Web Design, Print designing for meetings, presentations & trade shows. Campaign poster creation. 
 
 Created User Interfaces, mapped out User Experiences and designed compelling logos. Clients includes [Institute Of Fundraising](https://ciof.org.uk/), [Youth For Christ](https://resources.yfc.co.uk/?gclid=Cj0KCQiAhs79BRD0ARIsAC6XpaX0NhL0CTTivVtji0VnYv5W1m3HvmbMHo1k5kQHBi083nZP4W4M3U0aAsrXEALw_wcB), [City Bridge Trust](https://www.citybridgetrust.org.uk/).
+
+**Champollion Website UX**
+
+![](/content/images/champollion-home.png)
