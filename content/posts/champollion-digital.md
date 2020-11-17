@@ -1,6 +1,6 @@
 ---
 date: 
-hero_image: "/content/images/champollionlogo1.png"
+hero_image: "/content/images/digitalnew.png"
 title: Champollion Digital
 author: Amine Mekhid
 
