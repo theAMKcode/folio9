@@ -47,6 +47,10 @@ hero_image: "/content/images/wisergraduates_logo.png"
 
 ![](/content/images/wiser_blog1.png)
 
+![](/content/images/wiser_team1.png)
+
+![](/content/images/wiser_contact1.png)
+
 **The finished and recent** [**Website**](https://wearewiser.com/graduates)
 
 ![](/content/images/wiser3.png)
