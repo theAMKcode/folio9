@@ -2,7 +2,7 @@
 date: 
 title: Vichy
 author: Amine Mekhid
-hero_image: "/content/images/vichy_logo.png"
+hero_image: "/content/images/vichy_logo2.jpg"
 
 ---
 **The Challenge:** A super duper mega French dermo-cosmetics brand. Their already 'peau'fect (ahem) brand work is exceptionally strong and clear. My challenge was to do them proud.
