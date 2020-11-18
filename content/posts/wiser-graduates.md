@@ -37,6 +37,10 @@ hero_image: "/content/images/wisergraduates_logo.png"
 
 ![](/content/images/wiserpage9.png)
 
+**Web Design Stage**
+
+![](/content/images/wiser_home1.png)
+
 **The finished and recent** [**Website**](https://wearewiser.com/graduates)
 
 ![](/content/images/wiser3.png)
