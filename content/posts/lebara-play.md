@@ -9,6 +9,10 @@ hero_image: "/content/images/lebaraplay_logo.jpg"
 
 **The Solution:** From Account Managers to Branding and Design, everybody helped in pooling lots of interesting customer data Lebara held. We needed to understand the markets better. The Western European markets; also South Asia & Australia.  Digging deeper into numerous cultures and backgrounds was quite fun. Zooming back out to understand what the channels will show, where and when helped. All of this aided in creating attractive visual content that would entice new and existing viewers to stay on the platform.
 
+**Social Media Posts**
+
 ![](/content/images/lebaraplay2.jpg)
+
+**iPad App Design Concepts**
 
 ![](/content/images/lebaraplay.png)
