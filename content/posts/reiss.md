@@ -5,7 +5,7 @@ author: Amine Mekhid
 hero_image: "/content/images/reiss_logo.jpg"
 
 ---
-[Campaign Video](https://www.youtube.com/watch?v=0Ggn3tQliFE)
+[Campaign Video](https://www.youtube.com/watch?v=C7jt6442NjM "Campaign Video")
 
 **The Challenge:** How can we show REISS off to the world, in a classy yet captivating way?
 
@@ -17,4 +17,4 @@ hero_image: "/content/images/reiss_logo.jpg"
 
 ![](/content/images/reiss_women.jpg)
 
-[Campaign Video](https://www.youtube.com/watch?v=0Ggn3tQliFE)
+[Campaign Video](https://www.youtube.com/watch?v=C7jt6442NjM "Campaign Video")
