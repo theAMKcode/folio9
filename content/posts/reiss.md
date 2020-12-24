@@ -1,5 +1,5 @@
 ---
-date: 2015-03-03T09:00:00Z
+date: 
 title: REISS
 author: Amine Mekhid
 hero_image: "/content/images/reiss_logo.jpg"
@@ -11,10 +11,6 @@ hero_image: "/content/images/reiss_logo.jpg"
 
 **The Solution:** We kicked off the brief with a deep dive into content ideation, bouncing visual ideas in group brainstorm sprints. Building on what we knew, throw in some newly acquired data of our customers; we decide to go with a visual campaign that is timeless, vibrant & refined.
 
-![](/content/images/reiss.jpg)
-
-![](/content/images/reiss_men.jpg)
-
-![](/content/images/reiss_women.jpg)
+![](/content/images/reiss10.jpg)
 
 [Campaign Video](https://www.youtube.com/watch?v=C7jt6442NjM "Campaign Video")
