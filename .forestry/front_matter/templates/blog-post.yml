@@ -38,6 +38,8 @@ fields:
   description: Enter hero image for blog post here
   default: "/content/images/sarah-dorweiler-9Z1KRIfpBTM-unsplash.jpg"
 pages:
+- content/posts/Architectural Visualisation - Blender - Domêstika - September 2021
+  - February 2022.md
 - content/posts/andigital.md
 - content/posts/bang-olufsen.md
 - content/posts/book-review-the-money-revolution-by-anne-boden.md
