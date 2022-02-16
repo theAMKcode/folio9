@@ -1,5 +1,5 @@
 ---
-date: 
+date: 2022-02-15T19:00:00Z
 hero_image: "/content/images/front.png"
 title: Architectural Visualisation
 author: Amine Mekhid
