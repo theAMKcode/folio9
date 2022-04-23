@@ -27,17 +27,19 @@ fields:
   label: contact
   fields:
   - type: text
-    name: email
-    label: email
-  - type: text
     name: twitter_handle
     label: twitter_handle
+    default: "@aminemkd8"
   - name: github_handle
     type: text
     config:
       required: false
     label: GitHub Handle
     hidden: false
+  - type: text
+    name: email
+    label: email
+    default: amkmail@protonmail.com
 - name: background_color
   type: color
   label: background_color
