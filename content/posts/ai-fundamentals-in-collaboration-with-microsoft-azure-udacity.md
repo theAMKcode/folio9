@@ -1,6 +1,6 @@
 ---
 date: 2022-04-13T12:00:59+01:00
-hero_image: "/content/images/screenshot-2022-04-13-at-12-00-49.png"
+hero_image: "/content/images/screenshot-2022-05-20-at-15-41-24.png"
 title: Ai Fundamentals in collaboration with Microsoft Azure - Udacity
 author: Amine Mekhid
 
