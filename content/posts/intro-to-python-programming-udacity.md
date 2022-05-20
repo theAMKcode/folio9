@@ -1,6 +1,6 @@
 ---
 date: 2022-02-17T17:55:36Z
-hero_image: "/content/images/screenshot-2022-02-17-at-17-58-29.png"
+hero_image: "/content/images/screenshot-2022-05-20-at-15-40-39.png"
 title: Intro to Python Programming - Udacity
 author: Amine Mekhid
 
