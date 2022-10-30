@@ -1,15 +1,13 @@
 ---
-date: 2022-02-15T19:00:00Z
+date: 
 hero_image: "/content/images/11octrender.png"
 title: 'Architectural Visualisation '
 author: Amine Mekhid
 
 ---
-September 2021 - October 2022
+Architectural Visualisation using the Domêstika learning platform. It was fun and slow re-learning an old art form. This time using the powerful Blender software. Having focused on Autodesk 3DS Max & Maya in my University years, during my 3D Animation module. 
 
-A year of learning an old art form. This time using Blender. Architectural Visualisation using the Domêstika learning platform. Something I did a bit of at University years ago with my 3D Animation module. It was falling in love with something so pure and natural and just plain awesome.
-
-It was so much fun. Terrifically slow to understand the behemoth that is Blender. Learnt a lot and keen for more!
+It was falling in love with a practice that is so seemingly rudimentary yet builds into such wonderful result with enough patience. 
 
 ![](/content/images/materialview.png)
 
